@@ -51,8 +51,3 @@ Very benefitial in colleges because of interaction arrangements between students
  - Alumni can connect with their batchmates through this medium
  - Alumni can view/upload the details of their current job/occupations and can guide others
  - Alumni can guide students about their future endeavours
-
-
-
-<img src = "./imgs/thankyou.jpg" width = "650px">
-
