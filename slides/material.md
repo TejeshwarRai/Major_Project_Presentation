@@ -35,11 +35,17 @@ This project is to develop a portal for alumnis with the following objectives:
  - Vani Theme
  - Html/CSS for modifying theme
  - Apache/XAMPP server for testing
+ - MySQL 5.0.15
+ - PHP
 
 
 
 ### Hardware Requirement: 
- Server to upload the site
+ Server to upload the site with
+ - Intel Processor
+ - Min 4GB RAM
+ - Min 256 GB disk space to store images and data
+
 
 ![](./imgs/server.jpeg)
 
