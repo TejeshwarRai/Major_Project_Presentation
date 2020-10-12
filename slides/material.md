@@ -11,11 +11,14 @@ Sparsh Gagneja (1706522)
 
 Tejeshwar Singh Rai (1706532)
 
+Group: G10
+
 
 
 ### Brief Abstract:
-
+<p style = "text-align:	justify">
 This project will focus on optimizing the Alumni Web Portal of GNDEC, Ludhiana. The portal will keep the esteemed alumni updated about the college and its activities and will serve as a medium for communication between alumni, the college administration and current college students.
+</p>
 
 
 
@@ -52,11 +55,13 @@ This project is to develop a portal for alumnis with the following objectives:
 
 
 ### Benefits:
+<p style = "text-align:	justify">
 Very benefitial in colleges because of interaction arrangements between students and alumni because allumnis can share their experiences and current scenerio of industry which will not only be benefitial for students but also for college authorities.
+</p>
 
 
 
-### Challanges
+### Challenges
  - Inviting alumni to portal
  - Handling traffic 
  - Providing cyber security to the data and information on the portal
