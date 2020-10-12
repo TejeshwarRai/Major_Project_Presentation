@@ -55,6 +55,8 @@ Very benefitial in colleges because of interaction arrangements between students
  - Handling traffic 
  - Providing cyber security to the data and information on the portal
 
+
+
 ### Future Scope:
 
  - Alumni can login into the portal to access various features
