@@ -15,21 +15,26 @@ Tejeshwar Singh Rai (1706532)
 
 ### Brief Abstract:
 
-This project will focus on optimizing the Alumni Web Portal of GNDEC, Ludhiana. The portal will keep the esteemed alumni updated about the college and its activities and will serve as a medium for communication between alumni and the college administration.
+This project will focus on optimizing the Alumni Web Portal of GNDEC, Ludhiana. The portal will keep the esteemed alumni updated about the college and its activities and will serve as a medium for communication between alumni, the college administration and current college students.
 
 
 
 ### Objectives:
+
+This project is to develop a portal for alumnis with the following objectives:
+
  - To develop an online interactive platform for alumnis to connect with the current college authorities
  - To provide facilities for alumnis to arrange interaction in college
  - Provide online gallery to depict college activities and alumni meets
 
 
 
-### Technology Used: 
- Drupal
-
-![](./imgs/drupal.jpeg)
+### Software Requirements: 
+ - Linux/Windows Operating System
+ - Drupal
+ - Vani Theme
+ - Html/CSS for modifying theme
+ - Apache/XAMPP server for testing
 
 
 
@@ -44,6 +49,11 @@ This project will focus on optimizing the Alumni Web Portal of GNDEC, Ludhiana. 
 Very benefitial in colleges because of interaction arrangements between students and alumni because allumnis can share their experiences and current scenerio of industry which will not only be benefitial for students but also for college authorities.
 
 
+
+### Challanges
+ - Inviting alumni to portal
+ - Handling traffic 
+ - Providing cyber security to the data and information on the portal
 
 ### Future Scope:
 
