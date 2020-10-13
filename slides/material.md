@@ -64,7 +64,7 @@ This project is to develop a portal for alumnis with the following objectives:
 
 ### Benefits:
 <p style = "text-align:	justify">
-Very benefitial in colleges in terms of learning and featires because of interaction arrangements between students and alumni because allumnis can share their experiences and current scenerio of industry which will not only be benefitial for students but also for college authorities.
+Very benefitial in colleges in terms of learning and features because of interaction arrangements between students and alumni because allumnis can share their experiences and current scenerio of industry which will not only be benefitial for students but also for college authorities.
 </p>
 
 
