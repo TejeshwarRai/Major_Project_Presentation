@@ -1,10 +1,10 @@
 ## Major Project
 
-### ALumni Portal
+### Optimizing Alumni Portal
 
 
 
-### Made By:
+### Submitted By:
 Raghu Gulati (1706493)
 
 Sparsh Gagneja (1706522)
@@ -13,6 +13,11 @@ Tejeshwar Singh Rai (1706532)
 
 Group: G10
 
+
+
+### Introduction
+
+Thr alumni portal has been designed previously for our college website with the objective of projecting information of college alumnis along with some informative posts by the alumnis. Now our main purpose of builing the project is to optimise the portal with new features like better photos viewing using gallery, imporved GUI etc. the details of which are discussed further in the presentation
 
 
 ### Brief Abstract:
@@ -29,7 +34,7 @@ This project is to develop a portal for alumnis with the following objectives:
  - To develop an online interactive platform for alumnis to connect with the current college authorities
  - To provide facilities for alumnis to arrange interaction in college
  - Provide online gallery to depict college activities and alumni meets
-
+ - To create registration and booking alumni hall feature
 
 
 ### Software Requirements: 
@@ -56,7 +61,7 @@ This project is to develop a portal for alumnis with the following objectives:
 
 ### Benefits:
 <p style = "text-align:	justify">
-Very benefitial in colleges because of interaction arrangements between students and alumni because allumnis can share their experiences and current scenerio of industry which will not only be benefitial for students but also for college authorities.
+Very benefitial in colleges in terms of learning and featires because of interaction arrangements between students and alumni because allumnis can share their experiences and current scenerio of industry which will not only be benefitial for students but also for college authorities.
 </p>
 
 
