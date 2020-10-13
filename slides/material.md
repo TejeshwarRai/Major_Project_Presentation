@@ -39,6 +39,7 @@ This project is to develop a portal for alumnis with the following objectives:
  - To create registration and booking alumni hall feature
 
 
+
 ### Software Requirements: 
  - Linux/Windows Operating System
  - Drupal
