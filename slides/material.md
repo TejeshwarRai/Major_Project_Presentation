@@ -16,8 +16,10 @@ Group: G10
 
 
 ### Introduction
-
+<p style = "text-align:	justify">
 Thr alumni portal has been designed previously for our college website with the objective of projecting information of college alumnis along with some informative posts by the alumnis. Now our main purpose of builing the project is to optimise the portal with new features like better photos viewing using gallery, imporved GUI etc. the details of which are discussed further in the presentation
+</p>
+
 
 
 ### Brief Abstract:
