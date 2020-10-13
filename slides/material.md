@@ -82,3 +82,9 @@ Very benefitial in colleges in terms of learning and featires because of interac
  - Alumni can connect with their batchmates through this medium
  - Alumni can view/upload the details of their current job/occupations and can guide others
  - Alumni can guide students about their future endeavours
+
+
+
+## Thank You 
+
+ 
